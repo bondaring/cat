@@ -16,7 +16,8 @@
   height: 180px;
   border: 1px solid #000;
   border-radius: 46%;
-  background: linear-gradient(#5e5e5e 85%, #45454f 100%); /* разницы особо не видно между этими двумя цветами */  
+  background: linear-gradient(#5e5e5e 85%, #45454f 100%); /* разницы особо не видно между этими двумя цветами */
+  transform: scale(3); 
 }
 /*  треугольник на css
 .cat-right-ear {
